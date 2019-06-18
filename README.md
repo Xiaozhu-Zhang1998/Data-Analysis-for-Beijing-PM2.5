@@ -10,6 +10,14 @@ Before the Beijing 2008 Summer Olympic Games, the severe air pollution in Beijin
 [UCI Repository - Beijing pm2.5](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)
 
 ## Contents
+| File| Description     |
+| ---------- | :-----------:  | 
+| PRSA_data_2010.1.1-2014.12.31.csv| The dataset in csv format| 
+|Code.R|The codes of data analysis in R file|
+|Memo.pdf|The memo for management-level audience to read|
+|Report (Technical Details).pdf|The formal report for data scientists to read|
+
+
 * PRSA_data_2010.1.1-2014.12.31.csv    The dataset in csv format
 * Code.R                               The codes of data analysis in R file
 * Memo.pdf                             The memo for management-level audience to read
