@@ -16,4 +16,4 @@ Before the Beijing 2008 Summer Olympic Games, the severe air pollution in Beijin
 * Report (Technical Details).pdf       The formal report for data scientists to read
 
 ## Authors
-Xiaozhu Zhang - (https://github.com/Xiaozhu-Zhang1998)
+Xiaozhu Zhang - [GitHub](https://github.com/Xiaozhu-Zhang1998)
