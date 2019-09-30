@@ -1,7 +1,7 @@
 # Data Analysis for PM2.5 in Beijing
 Was PM2.5 in Beijing decreasing?
 
-<img src="https://www.thestar.com.my/~/media/online/2014/05/02/09/54/beijingsmog3a.ashx/?w=620&h=413&crop=1&hash=CD659A3E349A386474694F373E246BA284319231"  width="450" height="250"> 
+<img src="https://www.eturbonews.com/wp-content/uploads/2017/12/BEIJINGAIR.jpg"  width="450" height="250"> 
 
 This is a repository for the final project of Class Introduction to Data Science in UCLA Extension.  
 ________________________________________________
